@@ -1,7 +1,7 @@
 {
   "pathwayTitle": "Syncano",
   "title": "Syncano CLI",
-  "description": "Syncano tutorial covering the CLI features",
+  "description": "Syncano tutorial covering the basic CLI features",
   "icon": "fa-node",
   "details": {
     "steps": [
