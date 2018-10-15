@@ -1,0 +1,39 @@
+{
+  "pathwayTitle": "Syncano",
+  "title": "Syncano CLI",
+  "description": "Syncano tutorial covering the CLI features",
+  "icon": "fa-node",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1: Project initiation",
+        "text": "step1.md",
+        "verify": "step1-verify.sh"
+      },
+      {
+        "title": "Step 2: Deploying socket",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3: Configuring hosting",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4: Hot deployment",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "node"
+  }
+}
